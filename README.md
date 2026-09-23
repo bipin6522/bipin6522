@@ -2,10 +2,10 @@
 <h3 align="center">B.S. Data Science & Applications @ IIT Madras | Full Stack Developer | ML Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bipin-kumar" target="_blank">
+  <a href="https://[https://www.linkedin.com/in/bipin-kumar-s1305/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:bipin6522@gmail.com">
+  <a href="bipin6522@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
