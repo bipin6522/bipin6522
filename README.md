@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Currently pursuing **B.S. in Data Science and Applications** at **IIT Madras** (CGPA: 8.15)
+- 🎓 Currently pursuing **B.S. in Data Science and Applications** at **IIT Madras** (CGPA: 8.32)
 - 💻 Full stack developer with hands-on experience in **Flask, Vue.js, and REST APIs**
 - 🤖 Interested in **Machine Learning & NLP** — built models with F1 scores up to 0.83 on real datasets
 - 📊 Passionate about turning raw data into actionable business insights
@@ -31,7 +31,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -52,6 +51,9 @@
 ---
 
 ### 📌 Featured Projects
+
+**🏛️ Cyber Panchayat — Civic Grievance Management Platform**
+Full-stack civic complaint platform (Flask + Vue.js 3 + SQLite) built with a 5-member team — 14 user stories, 83 API endpoints, and Google Gemini AI integration for complaint auto-categorization and handwritten note extraction.
 
 **🏥 [Hospital Management System](https://github.com/bipin6522/MAD_2-PROJECT)**
 Role-based full-stack app (Admin/Doctor/Patient) built with Flask + Vue.js 3 — 26 REST APIs, JWT auth, Redis caching, and Celery background jobs for automated reminders and reports.
