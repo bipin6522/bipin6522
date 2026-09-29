@@ -52,8 +52,8 @@
 
 ### 📌 Featured Projects
 
-**🏛️ Cyber Panchayat — Civic Grievance Management Platform**
-Full-stack civic complaint platform (Flask + Vue.js 3 + SQLite) built with a 5-member team — 14 user stories, 83 API endpoints, and Google Gemini AI integration for complaint auto-categorization and handwritten note extraction.
+**🏛️ [Cyber Panchayat — Civic Grievance Management Platform](https://github.com/SakshiAgarwal142/MAY2026-Team-009)**
+*Team project (5 members) — contributor, not repo owner* — Full-stack civic complaint platform (Flask + Vue.js 3 + SQLite) — 14 user stories, 83 API endpoints, and Google Gemini AI integration for complaint auto-categorization and handwritten note extraction.
 
 **🏥 [Hospital Management System](https://github.com/bipin6522/MAD_2-PROJECT)**
 Role-based full-stack app (Admin/Doctor/Patient) built with Flask + Vue.js 3 — 26 REST APIs, JWT auth, Redis caching, and Celery background jobs for automated reminders and reports.
